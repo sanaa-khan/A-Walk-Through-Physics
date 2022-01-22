@@ -1,2 +1,2 @@
-# A-Walk-Through-Physics
-Android app for E-Learning, for students to access resources from and teachers to upload relevant resources, create courses and more.
+# A Walk-Through Physics
+Welcome to Phy, an android app making learning easier.
