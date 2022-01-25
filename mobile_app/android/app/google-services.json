@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91956625611",
+    "project_id": "physics-mobile-app",
+    "storage_bucket": "physics-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91956625611:android:1c62a1b846370ec77e1b4e",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91956625611-avdheg3bm7gltni56av5idhiavqiuucl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile_app",
+            "certificate_hash": "45bb236b21fb35c458758262da553a5a38df70a7"
+          }
+        },
+        {
+          "client_id": "91956625611-hg7gf1oce87g0rfcda7tle7sta6mlh2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHgTzauX4OPiIQskS6YirBNAaFNtmr_4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91956625611-hg7gf1oce87g0rfcda7tle7sta6mlh2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
